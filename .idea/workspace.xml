@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d28ea9b-dffe-4028-80f2-f35efb092443" name="변경" comment="🖥 | 2. 주석 (Comment)">
-      <change afterPath="$PROJECT_DIR$/src/variable/Var1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/Var2.java" afterDir="false" />
+    <list default="true" id="5d28ea9b-dffe-4028-80f2-f35efb092443" name="변경" comment="🙂 | 3. 변수 시작">
+      <change afterPath="$PROJECT_DIR$/src/variable/Var3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,8 @@
     "애플리케이션.HelloJava.executor": "Run",
     "애플리케이션.HelloJava2.executor": "Run",
     "애플리케이션.Var1.executor": "Run",
-    "애플리케이션.Var2.executor": "Run"
+    "애플리케이션.Var2.executor": "Run",
+    "애플리케이션.Var3.executor": "Run"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -85,7 +85,7 @@
       <workItem from="1702897157184" duration="13000" />
       <workItem from="1702897172331" duration="15000" />
       <workItem from="1702897210258" duration="669000" />
-      <workItem from="1702961769478" duration="946000" />
+      <workItem from="1702961769478" duration="1869000" />
     </task>
     <task id="LOCAL-00001" summary="😵 | 1. Hello World (Fixed)">
       <option name="closed" value="true" />
@@ -103,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702898537117</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="🙂 | 3. 변수 시작">
+      <option name="closed" value="true" />
+      <created>1702962727672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702962727672</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +131,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" | 1. Hello World (Fixed)" />
     <MESSAGE value=" | 2. 주석 (Comment)" />
-    <option name="LAST_COMMIT_MESSAGE" value=" | 2. 주석 (Comment)" />
+    <MESSAGE value=" | 3. 변수 시작" />
+    <option name="LAST_COMMIT_MESSAGE" value=" | 3. 변수 시작" />
   </component>
 </project>
